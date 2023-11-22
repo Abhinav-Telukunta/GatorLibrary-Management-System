@@ -4,11 +4,11 @@ The Gator Library Management System is a Java-based application designed to effi
 
 ### Key Features
 
-Red-Black Tree: Organizes books for efficient search and management.
-Min Heap: Facilitates priority-based reservations to optimize patron access.
-Book Operations: Borrowing, returning, searching, and more for seamless library functionality.
-Color Flip Tracking: Monitors Red-Black Tree color flips to ensure data structure integrity.
-User-Friendly Commands: A simple and intuitive command-line interface for easy interaction.
+* Red-Black Tree: Organizes books for efficient search and management.
+* Min Heap: Facilitates priority-based reservations to optimize patron access.
+* Book Operations: Borrowing, returning, searching, and more for seamless library functionality.
+* Color Flip Tracking: Monitors Red-Black Tree color flips to ensure data structure integrity.
+* User-Friendly Commands: A simple and intuitive command-line interface for easy interaction.
 
 ### Sample Input:
 
